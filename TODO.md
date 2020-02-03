@@ -1,1 +1,1 @@
-*  JPEXS Free Flash Decompiler: https://github.com/jindrapetrik/jpexs-decompiler
+*  JPEXS Free Flash Decompiler: Download Reg file.
