@@ -7,12 +7,17 @@
     "hash": "F253E72C2BA84E75ACF711EBFD38E7F62E5F809A6AE584439BA20279327E2E8A",
     "bin": [
         "dnSpy.Console.exe",
-        "dnSpy.exe"
+        "dnSpy.exe",
+        "dnSpy-x86.exe"
     ],
     "shortcuts": [
         [
             "dnSpy.exe",
             "dnSpy"
+        ],
+        [
+            "dnSpy-x86.exe",
+            "dnSpy-x86"
         ]
     ]
 }

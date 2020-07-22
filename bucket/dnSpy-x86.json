@@ -6,13 +6,19 @@
     "url": "https://github.com/0xd4d/dnSpy/releases/download/v6.1.6/dnSpy-netcore-win32.zip",
     "hash": "2B92482CC3A3C3CF21ACBFA4438BA24440DB417AC0E76170B916578B9CFA1764",
     "bin": [
-        "dnSpy.Console.exe",
-        "dnSpy.exe"
+        [
+            "dnSpy.Console.exe",
+            "dnSpy.Console-x86.exe"
+        ],
+        [
+            "dnSpy.exe",
+            "dnSpy-x86.exe"
+        ]      
     ],
     "shortcuts": [
         [
             "dnSpy.exe",
-            "dnSpy"
+            "dnSpy-x86"
         ]
     ]
 }
