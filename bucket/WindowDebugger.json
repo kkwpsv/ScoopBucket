@@ -1,10 +1,10 @@
 {
     "homepage": "https://github.com/kkwpsv/WindowDebugger",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "license": "WTFPL",
-    "description": "Windows",
-    "url": "https://github.com/kkwpsv/WindowDebugger/releases/download/0.0.5/WindowDebugger.netcoreapp3.1.7z",
-    "hash": "A66FC8DC074DE6349DB0F5A73AFC7310D9A27C3716CC6611733F9734026377DE",
+    "description": "Window Debug Tool",
+    "url": "https://github.com/kkwpsv/WindowDebugger/releases/download/0.0.6/WindowDebugger.netcoreapp3.1.7z",
+    "hash": "7C2D715F24E165B6073A80874CEA1E2473C2C25FBBC70483596C104B468783C9",
     "bin": [
         "WindowDebugger.exe"
     ],
