@@ -3,7 +3,7 @@
     "version": "0.0.6",
     "license": "WTFPL",
     "description": "Window Debug Tool",
-    "url": "https://github.com/kkwpsv/WindowDebugger/releases/download/0.0.6/WindowDebugger.netcoreapp3.1.7z",
+    "url": "http://gitlab-release.o0o0o0o.cn/WindowDebugger.0.0.6.netcoreapp3.1.7z",
     "hash": "7C2D715F24E165B6073A80874CEA1E2473C2C25FBBC70483596C104B468783C9",
     "bin": [
         "WindowDebugger.exe"
@@ -16,6 +16,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://github.com/kkwpsv/WindowDebugger/releases/download/$version/WindowDebugger.netcoreapp3.1.7z"
+        "url": "http://gitlab-release.o0o0o0o.cn/WindowDebugger.$version.netcoreapp3.1.7z"
     }
 }
