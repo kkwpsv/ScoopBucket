@@ -4,9 +4,9 @@
         "identifier": "Freeware",
         "url": "https://www.bitvise.com/ssh-client-license"
     },
-    "version": "8.43",
+    "version": "8.49",
     "url": "https://dl.bitvise.com/BvSshClient-Inst.exe",
-    "hash": "1337DDEF7497854EAFEE5365626D05DAA70BDFA9677ACDB12690E41C913BA510",
+    "hash": "9968F90CF9FD8B35870062C7BEE1C954991B41D513F4A2FA444379B01D421589",
     "installer": {
         "script": [
             "Invoke-ExternalCommand \"$dir\\BvSshClient-Inst.exe\" -ArgumentList @('-acceptEULA') -RunAs | Out-Null",
