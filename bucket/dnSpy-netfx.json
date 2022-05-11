@@ -1,10 +1,10 @@
 {
-    "version": "6.1.6",
+    "version": "6.1.9",
     "description": ".NET debugger and assembly editor.",
-    "homepage": "https://github.com/0xd4d/dnSpy",
+    "homepage": "https://github.com/kkwpsv/dnSpy",
     "license": "GPL-3.0-only",
-    "url": "https://github.com/0xd4d/dnSpy/releases/download/v6.1.6/dnSpy-net472.zip",
-    "hash": "F253E72C2BA84E75ACF711EBFD38E7F62E5F809A6AE584439BA20279327E2E8A",
+    "url": "https://gitlab-release.o0o0o0o.cn/dnSpy-6.1.9-netframework.7z",
+    "hash": "06a7cf53789a50ba3ce09317386890c15b39fea0d4e6f47f726646849ebcc892",
     "bin": [
         "dnSpy.Console.exe",
         "dnSpy.exe",
